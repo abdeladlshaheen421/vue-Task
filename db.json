@@ -1,0 +1,63 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "noOfPages": 28,
+      "category": "love",
+      "name": "Vrienden voor het leven",
+      "author": "Maeve Binchy",
+      "summary": "Vrienden voor het leven is het verhaal van drie vriendinnen die op weg ",
+      "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/5/3/6/6/1001004011806635.jpg",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "noOfPages": 70,
+      "category": "love",
+      "name": "Vrienden voor het leven",
+      "author": "Maeve Binchy",
+      "summary": "Vrienden voor het leven is het verhaal van drie vriendinnen die op weg ",
+      "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/5/3/6/6/1001004011806635.jpg",
+      "price": 15
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 2,
+      "noOfPages": 70,
+      "category": "love",
+      "name": "Vrienden voor het leven",
+      "author": "Maeve Binchy",
+      "summary": "Vrienden voor het leven is het verhaal van drie vriendinnen die op weg ",
+      "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/5/3/6/6/1001004011806635.jpg",
+      "price": 15
+    },
+    {
+      "id": 1,
+      "noOfPages": 28,
+      "category": "love",
+      "name": "Vrienden voor het leven",
+      "author": "Maeve Binchy",
+      "summary": "Vrienden voor het leven is het verhaal van drie vriendinnen die op weg ",
+      "image": "http://s.s-bol.com/imgbase0/imagebase/large/FC/5/3/6/6/1001004011806635.jpg",
+      "price": 10
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
